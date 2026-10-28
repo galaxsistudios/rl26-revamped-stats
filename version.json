@@ -5,12 +5,14 @@
     "sha256": "15cca4be9075fec50ef33f1cb0c2bf8490905383bebf3b83aec3c975c0163a16",
     "bytes": 26839311,
     "exportedAt": "2026-10-28T07:08:07Z",
-    "count": 4060
+    "count": 4060,
+    "parts": 104
   },
   "teams": {
     "sha256": "13710ce1001045b300d20b294449004ea8ec32f6bd26727a72e16d214dd2f632",
     "bytes": 8281499,
     "exportedAt": "2026-10-28T07:44:34Z",
-    "count": 219
+    "count": 219,
+    "parts": 40
   }
 }
