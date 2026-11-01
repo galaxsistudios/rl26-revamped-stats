@@ -2,18 +2,18 @@
   "format": "RL26RevampStatsVersion",
   "version": 1,
   "players": {
-    "sha256": "2af9a3bfa65f46f68b9c7b6ad3c342ff7c63a9fa722ca25274cf0057f09c16b4",
-    "bytes": 26839311,
-    "exportedAt": "2026-10-28T07:08:07Z",
-    "count": 4060,
-    "parts": 102,
+    "sha256": "cdf13930b7722eac48ba9d5f8e8a62c687348e76d58ea348d157ab02f5ce008d",
+    "bytes": 25681948,
+    "exportedAt": "2026-11-01T21:21:53Z",
+    "count": 3883,
+    "parts": 98,
     "chunks": [
       "6aeacfa09f1c03d0a574cf98655fcbdb5a2fd77d966c7214e767a193c09531d2",
       "d6cd2fdec927e34dbb41e0927893dfe427530fef64d44787da337100d841e5f1",
       "1de8e3e8d74094708a8d460ecb293fdbcd882731875b240d1681057be10a9edc",
       "b437dd23a4fb91f069452fe9344ab934df0a145a6eca4a22f75ba0341fb8cb3d",
       "faae5052b0b03e15a182aad72cb0227aa7879ba5ff1c49e55fb7fc05cce10c73",
-      "1f80dd68698429b7df512101aafdfd023d9fc00bdd1d9de2a076ece16d13f4f8",
+      "0c0e7d68869714806595a3a1676bf5194b885fdcebade2e746315b1cd91a8057",
       "23cf47b72ca53ff45570a68e16ac2689c958739f34e1cd5668b51d8a801b5011",
       "624e03a717a16fffdf2f902fd46d8e78337dd2216f329141b27ec4d9319972e3",
       "c8f7e37a188b686f5d3e84a25158f243220bf11e012b0de5dfc767dbc0ea6bb6",
@@ -105,11 +105,7 @@
       "7319cb000821defd374b7d6b425e6b98ea58a1645b7abb287d81d42add5dc48b",
       "5daf2ecd8fe52330f2f84696218a6768654717b68c6395224a7215be23174bbe",
       "fd15ed736d52146b62aa356d8544ef62a088ff92a5f5065b4531d98ae8115f51",
-      "b9e0c765d1ebb2c24125c2984b95c953ba7490157b3ecc9eb67cef58ca9cccfa",
-      "c8216bae5ec4fb778355eaf5daca6bc763cc6465d65c1c4fe82bf87e383d18f2",
-      "61c6fe463d327bacea88a6a907916ef0fbe4328ffaea1ce5cfafa98d8b36e3d1",
-      "02672a98c021e04128709d1be6b79692baf37216a0eb61d45204bbf9e0c35c5c",
-      "2b49b2178ffc8d1c69b1b33e329f4d481d7784c523d6d08474142ea621b582c6"
+      "c772eb3d2bf772ddf7fc5acefd896c41708f0e66d268b41b6715d06f95099c84"
     ],
     "chunkBytes": [
       76383,
@@ -117,7 +113,7 @@
       76296,
       66449,
       71432,
-      72047,
+      72104,
       66658,
       67033,
       66768,
@@ -209,34 +205,30 @@
       264633,
       262331,
       260297,
-      80584,
-      66140,
-      66052,
-      66135,
-      33225
+      19535
     ]
   },
   "teams": {
-    "sha256": "506680a87ae284379e8ebe0840f479bffe52c1337911c18650bf7597c80085f9",
-    "bytes": 8281499,
-    "exportedAt": "2026-10-28T07:44:34Z",
-    "count": 219,
+    "sha256": "4427fd1bee2d1f889837648106bb5380e7ca6a9661d75d2864d9cbbccb827407",
+    "bytes": 6608525,
+    "exportedAt": "2026-11-01T21:22:07Z",
+    "count": 220,
     "parts": 6,
     "chunks": [
-      "6aad5fddbf11b2549e74faf2105bfc4b601905e2dbd02e1c904d45dc8fcf75bf",
-      "9a3c944f3031b6c15cbd2e098cbe8436e254f05573beaf286b2ec8c8dbeb51c1",
-      "ff4dcb975a2dea4b16002c7868c1eedbced7e2712ae8481ad8de5370d83317ee",
-      "6e398be8bfac97ed917e6e7add50cda3c0351986db996eb9a7881399970ed510",
-      "eacf25e4a97e7ac7fd7401dd2877e968ffcb81c27f7d8eaf3a75bddeb2dbb83b",
-      "86bc008b74fe196c072b8c3675100a6d701b93c6f88051e9ad76a83153eb32f0"
+      "dbbf3dee103038a894967a1be5ec3078b72d482b6e9027f935f457ef180bcf22",
+      "841f19da220d590c5f5daced62a955c4cf15ba671cebc947fd84adea0d157893",
+      "93f393d865322c4cabeefed47b8d8cd37c219a4255096637d569a62d05941590",
+      "8e1d2258aa0151ecdad2c25ad92f1e9437eb9cde09b4b5db20db55cfa5e9a158",
+      "e00f38a26a82508ae0c210131b5a37eda633a387938faee01a6bbc6398399164",
+      "ba3e8f870034ead9d151c132c303df97429c50ed31cdbb3e657395b352f01c0c"
     ],
     "chunkBytes": [
-      50767,
-      53078,
-      50930,
-      51273,
-      52472,
-      23973
+      50611,
+      53218,
+      50776,
+      51182,
+      52513,
+      25156
     ]
   }
 }
